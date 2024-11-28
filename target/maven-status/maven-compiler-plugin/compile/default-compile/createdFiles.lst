@@ -1,0 +1,6 @@
+com\courseservice\api\CourseServiceapiApplication.class
+com\courseservice\api\exception\ResourceNotFoundException.class
+com\courseservice\api\service\CourseService.class
+com\courseservice\api\model\Course.class
+com\courseservice\api\controller\CourseController.class
+com\courseservice\api\repository\CourseRepository.class
