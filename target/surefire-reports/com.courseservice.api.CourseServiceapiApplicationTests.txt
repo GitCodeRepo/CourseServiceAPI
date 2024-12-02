@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.courseservice.api.CourseServiceapiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.150 s -- in com.courseservice.api.CourseServiceapiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.758 s -- in com.courseservice.api.CourseServiceapiApplicationTests
